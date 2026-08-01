@@ -1,0 +1,34 @@
+generated: '2026-07-21'
+method: searched
+source: https://trust.wispr.ai/
+url: https://trust.wispr.ai/
+certifications:
+- SOC 2 Type 1
+- SOC 2 Type 2
+- ISO/IEC 27001
+- HIPAA
+coverage:
+- Security & Compliance (certifications, audit reports, penetration testing)
+- Product Security (audit logging, data security, integrations)
+- Data Protection (access monitoring, classification, certificates of destruction)
+- Infrastructure (AWS, anti-DDoS, status monitoring)
+- Policies (access control, acceptable use, AI system governance)
+- Legal (subprocessors, audit rights, cyber insurance)
+- Incident Response & Risk Management
+- Corporate Security (employee training, business continuity)
+subprocessors:
+- Baseten
+- Vercel
+- OpenAI
+- Supabase
+evidence:
+- source: https://trust.wispr.ai/
+  keywords:
+  - soc 2 type 1
+  - soc 2 type 2
+  - iso 27001
+  - hipaa
+  - trust center
+notes: Consumer/enterprise voice-to-text app; Trust Center hosted on wispr.ai (parent
+  domain) rather than wisprflow.ai. HIPAA report and ISO 27001 certificate available
+  under the Reports section for enterprise customers.
