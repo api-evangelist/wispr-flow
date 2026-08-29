@@ -11,6 +11,17 @@ description: Wispr Flow is a voice-to-text dictation application from Wispr that
   desktop/mobile apps rather than a public developer API. It was surfaced as a portfolio
   company of Menlo Ventures.
 url: https://raw.githubusercontent.com/api-evangelist/wispr-flow/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
